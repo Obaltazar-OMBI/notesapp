@@ -1,4 +1,4 @@
-# 📝 TodoApp
+# 📝 NotesApp
 
 Aplicación de ejemplo usada para demostrar prácticas de **CI/CD** con **Azure DevOps**, **Docker** y **Kubernetes (GKE)**.  
 Construida con **Java 17 + Spring Boot**, incluye endpoints REST y health checks listos para entornos productivos.
